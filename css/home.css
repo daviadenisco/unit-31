@@ -1,0 +1,29 @@
+.nav-wrapper {
+	background-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+body {
+	background-color: #444554;
+}
+.card {
+	border: 4px;
+	border-color: CED0CE;
+	style: solid;
+}
+video {
+	width: 332px;
+}
+.video {
+	height: 332px;
+	padding-top: 500px;
+}
+.cardStyles {
+	color: grey !important;
+}
+#pageFooter {
+	background-color: black;
+}
+.container {
+	background-color: black;
+}
