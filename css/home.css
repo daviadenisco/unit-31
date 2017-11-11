@@ -11,13 +11,7 @@ body {
 	border-color: CED0CE;
 	style: solid;
 }
-video {
-	width: 332px;
-}
-.video {
-	height: 332px;
-	padding-top: 500px;
-}
+
 .cardStyles {
 	color: grey !important;
 }
